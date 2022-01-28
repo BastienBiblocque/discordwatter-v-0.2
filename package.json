@@ -6,7 +6,7 @@
     "dev": "env-cmd -f ./.env.dev node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Bastien B.",
   "license": "ISC",
   "dependencies": {
     "cron": "^1.8.2",
@@ -23,5 +23,5 @@
     "url": "https://github.com/BastienBiblocque/discordwatter-v-0.2/issues"
   },
   "homepage": "https://github.com/BastienBiblocque/discordwatter-v-0.2#readme",
-  "description": ""
+  "description": "A simple test"
 }
