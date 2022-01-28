@@ -26,5 +26,5 @@ async function postMessage(channelId, message){
     await channel.send(message);
 }
 
-client.login(token);
+client.login('OTM2NzM4MjE4MzExODIzNDIw.YfRjcw.' + 'dbI7QrmNyxHPFEFfU39EQ3RrH4M');
 
